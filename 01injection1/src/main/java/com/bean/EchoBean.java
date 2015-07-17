@@ -4,6 +4,7 @@ public class EchoBean {
    
    int num;
    String name;
+   String aslkfj;
    
    //생성자 생성
    public EchoBean(){
